@@ -1,0 +1,9 @@
+base) Saurabhs-MacBook-Air-2:NLP_LLM saurabhkumar$ ls
+conda_create_env        test.txt                virtual_env
+(base) Saurabhs-MacBook-Air-2:NLP_LLM saurabhkumar$ source python_venv/bin/activate
+bash: python_venv/bin/activate: No such file or directory
+(base) Saurabhs-MacBook-Air-2:NLP_LLM saurabhkumar$ cd virtual_env/
+(base) Saurabhs-MacBook-Air-2:virtual_env saurabhkumar$ ls
+python_venv
+(base) Saurabhs-MacBook-Air-2:virtual_env saurabhkumar$ source python_venv/bin/activate
+(python_venv) (base) Saurabhs-MacBook-Air-2:virtual_env saurabhkumar$ 
