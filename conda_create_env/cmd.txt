@@ -1,9 +1,26 @@
-base) Saurabhs-MacBook-Air-2:NLP_LLM saurabhkumar$ ls
-conda_create_env        test.txt                virtual_env
-(base) Saurabhs-MacBook-Air-2:NLP_LLM saurabhkumar$ source python_venv/bin/activate
-bash: python_venv/bin/activate: No such file or directory
-(base) Saurabhs-MacBook-Air-2:NLP_LLM saurabhkumar$ cd virtual_env/
-(base) Saurabhs-MacBook-Air-2:virtual_env saurabhkumar$ ls
-python_venv
-(base) Saurabhs-MacBook-Air-2:virtual_env saurabhkumar$ source python_venv/bin/activate
-(python_venv) (base) Saurabhs-MacBook-Air-2:virtual_env saurabhkumar$ 
+Microsoft Windows [Version 10.0.19045.4046]
+(c) Microsoft Corporation. All rights reserved.
+// create a folder in which we want to run application/{folder_name=environment_name}
+(c:\Users\Dell\#vikram work\llm\PDF_Documents_With_Langchain_And_Google_Gemini_Pro\venv) C:\Users\Dell\#vikram work\llm>cd folder_name
+//
+(c:\Users\Dell\#vikram work\llm\PDF_Documents_With_Langchain_And_Google_Gemini_Pro\venv) C:\Users\Dell\#vikram work\llm\folder_name>conda create --name=folder_name
+
+
+Proceed ([y]/n)? y
+
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+#
+# To activate this environment, use
+#
+#     $ conda activate folder_name
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+(c:\Users\Dell\#vikram work\llm\PDF_Documents_With_Langchain_And_Google_Gemini_Pro\venv) C:\Users\Dell\#vikram work\llm\folder_name>conda activate folder_name
+
+(folder_name) C:\Users\Dell\#vikram work\llm\folder_name>
