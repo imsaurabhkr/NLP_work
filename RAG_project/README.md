@@ -1,4 +1,4 @@
-### PDF Answering AI
+### RAG Based PDF Answering AI
 
 Welcome to the RAG Based PDF Answering AI project repository! This project enables you to interact with your personalised PDF documents leveraging power of LLM . 
 
