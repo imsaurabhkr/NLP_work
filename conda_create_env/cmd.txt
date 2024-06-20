@@ -1,4 +1,4 @@
-Microsoft Windows [Version 10.0.19045.4046]
+coMicrosoft Windows [Version 10.0.19045.4046]
 (c) Microsoft Corporation. All rights reserved.
 // create a folder in which we want to run application/{folder_name=environment_name}
 (c:\Users\Dell\#vikram work\llm\PDF_Documents_With_Langchain_And_Google_Gemini_Pro\venv) C:\Users\Dell\#vikram work\llm>cd folder_name
